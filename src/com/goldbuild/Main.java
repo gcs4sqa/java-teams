@@ -1,7 +1,6 @@
 package com.goldbuild;
 
 
-import java.awt.font.TextAttribute;
 
 public class Main {
 
